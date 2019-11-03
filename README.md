@@ -9,3 +9,6 @@ is able to load drivers. SYSTEM_GDI_DRIVER_INFORMATION structure only needs to f
 # Mode
 
 This method only works in kernel space
+
+
+![image](https://raw.githubusercontent.com/alex9191/LoadDriver/master/Capture.PNG)
